@@ -1,9 +1,0 @@
-time=1640584450730
-state=running
-server-pid=59
-server-parent-pid=13
-redirect-port=80
-mps-port=4433
-mps-name=retrogore.tk
-servername=retrogore.tk
-https-port=443
